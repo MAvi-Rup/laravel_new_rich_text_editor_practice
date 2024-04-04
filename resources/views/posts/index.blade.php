@@ -50,7 +50,7 @@
                 },
                 toolbar: {
                     container: [
-                        ['bold', 'italic', 'underline', 'strike'],
+                        ['bold', 'italic', 'underline'],
                         ['blockquote', 'code-block'],
                         ['link', 'image', 'video', 'formula'],
                         [{
